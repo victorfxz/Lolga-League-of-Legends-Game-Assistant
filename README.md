@@ -1,6 +1,6 @@
 # LoLGA - League of Legends Game Assistant <img align="center" src="https://i.imgur.com/X4n9ruu.png" width="34">
 
-<p align="center"><img src="https://i.imgur.com/PVgqqV1.png" width="269"><img src="https://i.imgur.com/e8hXph2.gif" width="690"></p>
+<p align="center"><img src="https://i.imgur.com/PVgqqV1.png" width="150"><img src="https://i.imgur.com/e8hXph2.gif" width="650"></p>
 
 ## 📑 Project Overview
 <p align="justify">League of Legends (LoL) is a game rich in lore, characters, and trivia that aren't always easily accessible to players. Many fans are curious about details like relationships between champions, backstories, and other interesting facts about the game universe. The LoLGA Game Assistant was developed to solve this problem by providing a fast and accurate assistant for answering questions about the game's lore and trivia. Using <strong>RAG (Retrieval-Augmented Generation)</strong> technology, this application allows users to ask questions and receive detailed responses about LoL's lore and characters, serving both casual fans and more involved players.</p>
