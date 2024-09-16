@@ -55,6 +55,8 @@ LoLGA is an essential tool for any League of Legends player looking to deepen th
 > ☑️ **OBS.**: You may need to "Restart the application" by clicking on Spin up your application, which typically takes less than 2 minutes to complete the "Spinning up" process. This is due to the activity time and maximum period for the application to remain active on the platform.
   
 https://blue-block-3250.ploomberapp.io/ <img align="center" src="https://i.imgur.com/tjJFxTd.png" width="21">
+  
+> 🏷️ㅤWrite a short text about how the login screen allows any login and password (as long as it's not offensive or empty/contains only spaces).
 
 ## 💻 Project Execution [Locally]
 ### **Pre-requisites**
@@ -145,11 +147,13 @@ https://blue-block-3250.ploomberapp.io/ <img align="center" src="https://i.imgur
   ``` bash
   streamlit run main.py
   ```
+
+  > 📼ㅤWrite a short text about how the login screen allows any login and password (as long as it's not offensive or empty/contains only spaces).
   
-## More Information
+## 📟 More Information
 <p align="justify">In the other folders, you will find additional files that were generated or developed during this project. Further information about the Grafana dashboard, including its configuration and visualization, is visually demonstrated in the images and grafana folders.</p>
 
-## Final Consideration
+## 💡 Final Consideration
 <p align="justify">This chat application, despite being specific to the League of Legends community, can be particularly interesting for individuals who wish to deepen their knowledge of the game and its lore. LoLGA is a useful tool for players of all levels, from beginners to veterans, and can be an excellent option for those seeking a quick and easy way to access information about the game.</p>
 
-This project was developed as the final assignment for the LLM Zoomcamp course.</p>
+<strong>This project was developed as the final assignment for the LLM Zoomcamp course</strong>.</p>
