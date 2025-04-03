@@ -36,7 +36,7 @@ LoLGA is an essential tool for any League of Legends player looking to deepen th
 ㅤ<img align="center" src="https://ai.google.dev/gemma/images/gemma_sq.png?hl=pt-br" width="17">ㅤ**Gemma (gemma-7b-it)** - Reframes user questions for improved response accuracy.  
 ㅤ<img align="center" src="https://logopng.com.br/logos/microsoft-92.png" width="17">ㅤ**all-MiniLM-L6-v2** - Performs embeddings and semantic search.  
 ㅤ<img align="center" src="https://ollama.com/assets/library/llama3-groq-tool-use/ebf53e82-1faf-4bac-84b0-47b8f5d9d8d1" width="17">ㅤ**Groq** - Processes vectors to retrieve accurate data.  
-ㅤ<img align="center" src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" width="17">ㅤ**Pinecone** - Manages vector databases for fast, scalable semantic search.  
+ㅤ<img align="center" src="https://apn-portal.my.salesforce.com/servlet/servlet.ImageServer?id=0158W000009dd27QAA&oid=00DE0000000c48tMAA" width="17">ㅤ**Pinecone** - Manages vector databases for fast, scalable semantic search.  
 
 ### Other Tools Used for Development
 ㅤ<img align="center" src="https://reverbc.gallerycdn.vsassets.io/extensions/reverbc/vscode-pytest/0.1.1/1617123275355/Microsoft.VisualStudio.Services.Icons.Default" width="17">ㅤ**Pytest** - For unit and integration testing.  
